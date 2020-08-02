@@ -16,4 +16,6 @@ This pjorect was built by using ubhuntu 18 , pyhton3 and openCV
 2. * Set the suitable thresholds in 2-Color_Transform_and_Gradients_Threshold.py
    * Set offsets of prespective transformation in 3-Apply_Perspective_transformation.py
 3. run laneDetection.py on you test images
-Note : To run any file just wirte python3 <nameOfTheFile>
+
+ Note : To run any file just wirte python3 file.py
+ 
