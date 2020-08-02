@@ -19,6 +19,6 @@ This pjorect was built by using ubhuntu 18 , pyhton3 and openCV
 
  Note : To run any file just wirte in you command line window **python3 file.py**
 ### Authors 
-**Mohamed Adel Naguib**
+Mohamed Adel Naguib
 ### Acknowledgments
 * I want to thank everyone who supported me and believed in my abilities to make this project.
