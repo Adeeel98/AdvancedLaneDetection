@@ -6,14 +6,14 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 This pjorect was built by using ubhuntu 18 , pyhton3 and openCV
 ### Installing 
-1- You need to install git on your local machine using this command 
+1. You need to install git on your local machine using this command 
 `sudo apt install git`
-2- Clone the repo :
+2. Clone the repo :
 `git clone https://github.com/MohamedAdelNaguib/AdvancedLaneDetection.git`
-3- Install openCV
+3. Install openCV
 ## Running the tests
-1- you need to calibrate your camera by replacing the images in camera_cal with your images of chess board (30 to 40 images from different angels and distances).
-2- * Set the suitable thresholds in 2-Color_Transform_and_Gradients_Threshold.py
+1. you need to calibrate your camera by replacing the images in camera_cal with your images of chess board (30 to 40 images from different angels and distances).
+2. * Set the suitable thresholds in 2-Color_Transform_and_Gradients_Threshold.py
    * Set offsets of prespective transformation in 3-Apply_Perspective_transformation.py
- 3- run laneDetection.py on you test images
- To run any file just wirte python3 <nameOfTheFile>
+3. run laneDetection.py on you test images
+Note : To run any file just wirte python3 <nameOfTheFile>
