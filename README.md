@@ -17,5 +17,8 @@ This pjorect was built by using ubhuntu 18 , pyhton3 and openCV
    * Set offsets of prespective transformation in 3-Apply_Perspective_transformation.py
 3. run laneDetection.py on you test images
 
- Note : To run any file just wirte python3 file.py
- 
+ Note : To run any file just wirte in you command line window **python3 file.py**
+### Authors 
+**Mohamed Adel Naguib**
+### Acknowledgments
+* I want to thank everyone who supported me and believed in my abilities to make this project.
